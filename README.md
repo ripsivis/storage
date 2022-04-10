@@ -1,11 +1,9 @@
 ﻿<div align="center">
   <a href="https://t.me/animearsiv"><img height="30px" alt="logo" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"/></a>
   <p><b>Anime Arşiv'e Hoş Geldiniz!<b></p>
-  </a>
 </div>
 
 #### Sizlere yeni haberlerimiz var, artık site hizmetimizi aylık hizmet olarak sunmaya karar verdik. 😇
-<br/><br/>
 <br/><br/>
 **Yeni sitemizin başlıca özellikleri:**
 
@@ -13,7 +11,6 @@
    stabil.
  - Animeleri toplu ve sınırsız olarak indirme desteği.
  - Arayüz çok daha iyi hale getirildi.
-<br/><br/>
 <br/><br/>
 **Tarifelerimiz:**
 <br/><br/>
