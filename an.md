@@ -4,7 +4,6 @@
 
 #### Sizlere yeni haberlerimiz var, artık site hizmetimizi aylık hizmet olarak sunmaya karar verdik. 😇
 <br />
-<br />
 
 **Yeni sitemizin başlıca özellikleri**
 
@@ -25,7 +24,6 @@
  - 3 aylık (20 TL) aboneliğin üstünde bağış yapanlar için [Telegram
    sohbet grubumuzda](https://t.me/animarsivchat) site aboneliği
    çekilişi yapılacak. Hala grubumuza katılmadıysanız bekliyoruz.
-<br />
 <br />
 
 **Merak ettikleriniz için [buraya tıklayabilirsiniz](https://t.me/animearsivduyuru/5).**
