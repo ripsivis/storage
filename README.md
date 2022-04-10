@@ -1,16 +1,16 @@
 ﻿<div align="center">
-  <a href="https://t.me/animearsiv"><img height="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo9.svg"/></a>
+  <a href="https://t.me/animearsiv"><img height="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"/></a>
 </div>
 
 #### Sizlere yeni haberlerimiz var, artık site hizmetimizi aylık hizmet olarak sunmaya karar verdik. 😇
-
+<br/><br/>
 **Yeni sitemizin başlıca özellikleri**
 
  - Yeni bir altyapıya geçtik ve site artık çok daha tepkisel, hızlı ve
    stabil.
  - Animeleri toplu ve sınırsız olarak indirme desteği.
  - Arayüz çok daha iyi hale getirildi.
-
+<br/><br/>
 **Tarifelerimiz**
 
  - **7 TL** - 1 Aylık site aboneliği
