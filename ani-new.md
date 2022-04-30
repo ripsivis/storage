@@ -16,12 +16,13 @@
 
 **Tarifelerimiz**
 
-- **7 TL** - 1 Aylık site aboneliği
- - **10 TL** - 2 Aylık site aboneliği
- - **20 TL** - 3 Aylık site aboneliği + 3 Aylık Özel Google Drive Mirror ve Telegram Leech grubu üyeliği
+- **10 TL** - 1 Aylık site aboneliği
+ - **20 TL** - 2 Aylık site aboneliği
+ - **30 TL** - 3 Aylık site aboneliği + 3 Aylık Özel GDrive Mirror ve Telegram Leech grubu üyeliği
 
- - **100 TL** - Her Şey Sınırsız **DESTEK** aboneliği
- - 3 aylık (20 TL) aboneliğin üstünde bağış yapanlar için [**Telegram
+ - **100 TL** - 100 TL - 1 Yıllık site aboneliği + 3 Aylık Özel GDrive Mirror ve Telegram Leech grubu üyeliği
+
+ - 3 aylık (30 TL) aboneliğin üstünde bağış yapanlar için [**Telegram
    sohbet grubumuzda**](https://t.me/animarsivchat) site aboneliği
    çekilişi yapılacak. Hala grubumuza katılmadıysanız bekliyoruz.
 <br />
