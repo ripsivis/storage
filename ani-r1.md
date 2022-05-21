@@ -22,9 +22,6 @@
 
  - **100 TL** - 100 TL - 1 Yıllık site aboneliği + 3 Aylık Özel GDrive Mirror ve Telegram Leech grubu üyeliği
 
- - 3 aylık (30 TL) aboneliğin üstünde bağış yapanlar için [**Telegram
-   sohbet grubumuzda**](https://t.me/animarsivchat) site aboneliği
-   çekilişi yapılacak. Hala grubumuza katılmadıysanız bekliyoruz.
 <br />
 
 **Merak ettikleriniz için [buraya tıklayabilirsiniz](https://t.me/animearsivduyuru/5).**
