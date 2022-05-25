@@ -1,7 +1,3 @@
-﻿<div align="center">
-  <a href="https://t.me/animearsiv"><img height="150px" alt="logo" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"/></a>
-</div>
-
 #### Sizlere yeni haberlerimiz var, artık site hizmetimizi aylık hizmet olarak sunmaya karar verdik. 😇
 <br />
 
