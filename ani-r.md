@@ -1,4 +1,4 @@
-<div align="center"><p>Sizlere yeni haberlerimiz var, artık site hizmetimizi aylık hizmet olarak sunmaya karar verdik. 😇</p></div>
+<div align="center"><b>Sizlere yeni haberlerimiz var, artık site hizmetimizi aylık hizmet olarak sunmaya karar verdik. 😇</b></div>
 <br />
 
 **Yeni sitemizin başlıca özellikleri**
