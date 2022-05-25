@@ -1,5 +1,6 @@
-<div align="center">Sizlere yeni haberlerimiz var, artık site hizmetimizi aylık hizmet olarak sunmaya karar verdik. 😇</div>
+<div align="center"><p>Sizlere yeni haberlerimiz var, artık site hizmetimizi aylık hizmet olarak sunmaya karar verdik. 😇</p></div>
 <br />
+
 **Yeni sitemizin başlıca özellikleri**
 
  - Yeni bir altyapıya geçtik ve site artık çok daha tepkisel, hızlı ve
