@@ -20,6 +20,4 @@
 
 <br />
 
-**Merak ettikleriniz için [buraya tıklayabilirsiniz](https://t.me/animearsivduyuru/5).**
-
-**İletişim ve satın alma için [buraya tıklayabilirsiniz](https://t.me/kanekabkz).**
+**Merak ettikleriniz için [buraya](https://t.me/animearsivduyuru/5), iletişim ve satın alma için [buraya tıklayabilirsiniz](https://t.me/kanekabkz).**
