@@ -1,5 +1,5 @@
 <div align="center">
-<b>Site hizmetimizi aylık hizmet olarak sunmaya devam ediyoruz. 😇</b><br /><br /><br />
+<b>Site hizmetimizi aylık olarak sunmaya devam ediyoruz. 😇</b><br /><br /><br />
 <b>Sitemizin başlıca özellikleri 👇</b><br /><br />
 • Yeni bir altyapıya geçtik ve site artık çok daha tepkisel, hızlı ve stabil.<br />
 • Animeleri toplu ve sınırsız olarak indirme desteği.<br />
