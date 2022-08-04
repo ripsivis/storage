@@ -1,8 +1,8 @@
 <div align="center">
 <b>Site hizmetimizi kaldığımız yerden sunmaya devam ediyoruz!!! 😇</b><br /><br /><br />
 <b>Sitemizin başlıca özellikleri 👇</b><br /><br />
-• Yeni altyapı sayesinde sitemiz artık çok daha tepkisel, hızlı ve stabil.<br />.<br />
-• Animeleri toplu ve sınırsız olarak indirme desteği.<br />.<br />
+• Yeni altyapı sayesinde sitemiz artık çok daha tepkisel, hızlı ve stabil.<br /><br />.
+• Animeleri toplu ve sınırsız olarak indirme desteği.<br /><br />.
 • Arayüz çok daha iyi hale getirildi.<br /><br /><br />
 <b>Tarifelerimiz 👇</b><br /><br />
 • <b>10 TL</b> - 1 Aylık Site Aboneliği<br /><br />
