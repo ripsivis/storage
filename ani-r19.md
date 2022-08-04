@@ -1,5 +1,5 @@
 <div align="center">
-<img style="width:100%;" id="image" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"><br /><br />
+<img style="width:70%;" id="image" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"><br /><br />
 <b>Site hizmetimizi kaldığımız yerden sunmaya devam ediyoruz!!! 😇</b><br /><br /><br />
 <b>Sitemizin başlıca özellikleri 👇</b><br /><br />
 • Yeni altyapı sayesinde sitemiz artık çok daha tepkisel, hızlı ve stabil.<br /><br />.
