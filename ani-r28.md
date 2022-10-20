@@ -1,14 +1,14 @@
 <div align="center">
-<br /><b>👉  <a href="https://animearsiv.ml/@login">Buraya tıklayarak siteye giriş yapabilirsiniz!</a>  👈</b><br /><br />
+<br /><b>👉⠀⠀<a href="https://animearsiv.ml/@login">Buraya tıklayarak siteye giriş yapabilirsiniz!</a>⠀⠀👈</b><br /><br />
 <img style="width:55%;" id="image" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"><br /><br />
-<b>👉  <a href="https://animearsiv.ml/@login">Buraya tıklayarak siteye giriş yapabilirsiniz!</a>  👈</b><br /><br />
+<b>👉⠀⠀<a href="https://animearsiv.ml/@login">Buraya tıklayarak siteye giriş yapabilirsiniz!</a>⠀⠀👈</b><br /><br />
 <b>Sitemizin özellikleri 👇</b><br /><br />
-• Daha hızlı, daha tepkisel ve stabil.<br /><br />.
-• Toplu olarak anime indirme desteği.<br /><br />.
+• Daha hızlı, daha tepkisel ve stabil.<br /><br />
+• Toplu olarak anime indirme desteği.<br /><br />
 • Modern ve reklamsız.<br /><br /><br />
-• 2 adımlı doğrulama (2FA) ile daha güvenli giriş yapabilme.<br /><br /><br />
-• Animelere kaldığınız yerden devam edebilme.<br /><br /><br />
-• Sisteminizdeki video oynatıcılardan izleyebilme.<br /><br /><br />
+• 2 adımlı doğrulama (2FA) ile daha güvenli giriş yapabilme.<br /><br />
+• Animelere kaldığınız yerden devam edebilme.<br /><br />
+• Sisteminizdeki video oynatıcılardan izleyebilme.<br /><br />
 <b>Tarifelerimiz 👇</b><br /><br />
 • <b>10 TL</b> - 1 Aylık Site Aboneliği<br /><br />
 • <b>20 TL</b> - 2 Aylık Site Aboneliği<br /><br />
