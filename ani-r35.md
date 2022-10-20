@@ -1,5 +1,5 @@
 <div align="center">
-<br /><b>👉⠀<a href="https://animearsiv.ml/@login">Buraya tıklayarak siteye giriş yapabilirsiniz!⠀👈&#13;&#10;<img style="width:55%;" id="image" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"><br />&#13;&#10;<b>👉⠀href="https://animearsiv.ml/@login">Buraya tıklayarak siteye giriş yapabilirsiniz!</a>⠀👈</b><br /><br />
+<br /><b>👉⠀<a href="https://animearsiv.ml/@login">Buraya tıklayarak siteye giriş yapabilirsiniz!⠀👈<br/><br/><img style="width:55%;" id="image" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"><br /><br/><br/><b>👉⠀href="https://animearsiv.ml/@login">Buraya tıklayarak siteye giriş yapabilirsiniz!</a>⠀👈</b><br /><br />
 <b>Sitemizin özellikleri:</b><br /><br />
 • Daha hızlı, daha tepkisel ve stabil.<br /><br />
 • Toplu olarak anime indirme desteği.<br /><br />
