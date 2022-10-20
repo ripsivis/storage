@@ -14,5 +14,5 @@
 • <b>20 TL</b> - 2 Aylık Site Aboneliği<br /><br />
 • <b>30 TL</b> - 3 Aylık Site Aboneliği ve 3 Aylık GDrive / Telegram Mirror Grubu Üyeliği<br /><br />
 • <b>100 TL</b> - 12 Aylık Site Aboneliği ve 3 Aylık GDrive / Telegram Mirror Grubu Üyeliği<br /><br /><br /><br />
-<b>Merak ettikleriniz için <a href="https://t.me/animearsivduyuru/5"><i class="fa-brands fa-telegram" style="transform: translateY(6%);"></i> buraya</a>, iletişim ve satın alma için <a href="https://t.me/kanekabkz"><i class="fa-brands fa-telegram" style="transform: translateY(6%);"></i> buraya</a> tıklayabilirsiniz.</b>
+<b>Merak ettikleriniz için <a href="https://t.me/animearsivduyuru/5"><i class="fa-brands fa-telegram" style="transform: translateY(5%);"></i>⠀buraya</a>, iletişim ve satın alma için <a href="https://t.me/kanekabkz"><i class="fa-brands fa-telegram" style="transform: translateY(5%);"></i>⠀buraya</a> tıklayabilirsiniz.</b>
 </div>
