@@ -1,6 +1,6 @@
 <div align="center">
 <br /><b><a href="https://animearsiv.ml/@login">👉⠀Buraya tıklayarak siteye giriş yapabilirsiniz!⠀👈<br/><br/>
-<img style="width:55%;" id="image" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"><br /><br/><br/>
+<img style="width:55%;" id="image" src="https://cdn.jsdelivr.net/gh/ripsivis/storage/logo6.png"><br /><br />
 <b>👉⠀Buraya tıklayarak siteye giriş yapabilirsiniz!⠀👈</b></a><br /><br />
 <b>Sitemizin özellikleri:</b><br /><br />
 • Daha hızlı, daha tepkisel ve stabil.<br /><br />
