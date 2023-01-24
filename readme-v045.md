@@ -1,5 +1,6 @@
 <div align="center">
-## <br /><br /><a href="https://animearsiv.live/@login"><b>Giriş Yap</b></a>"><br /><br /><br />
+<br /><br />
+## <a href="https://animearsiv.live/@login"><b>Giriş Yap</b></a>"><br /><br /><br />
 <b>Sitemizin özellikleri:</b><br /><br />
 • Daha hızlı, daha tepkisel ve stabil.<br /><br />
 • Toplu olarak anime indirme desteği.<br /><br />
